@@ -6,5 +6,3 @@ business problem - detect potential fraud within customer applications applying 
 Used both unsupervised and supervised deep learning to solve the problem.
 First - unsupervised deep learning - identify some potential fraud patterns in a high dimensional data set
 Second - supervised deep learning - Input is from self-organizing map. Output is ranking of the predicted probabilities that each customer cheated.
-
-
